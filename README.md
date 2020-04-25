@@ -1,4 +1,4 @@
-# bmical
+# BMI-Calculator
 
-A new Flutter application.
+A BMI calculator application.
 
